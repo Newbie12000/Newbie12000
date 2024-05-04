@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Newbie12000
-- 👀 I’m interested in ...Girls
-- 🌱 I’m currently in class 9
-- 💞️ I’m looking to collaborate With u(if girl)
-- 📫 How to reach me ...@PrathameshJha950@gmail.com 
+Forgive my past self.
 
 <!---
 Newbie12000/Newbie12000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
